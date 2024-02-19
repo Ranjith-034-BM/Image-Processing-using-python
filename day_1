@@ -1,14 +1,6 @@
-Introduction to Digital images and Image Processing - using OpenCV libray
-OpenCV - Open Source Computer Vision Library
-set of fuctions and tools for images and video analysis, manipulation,and processing
-exploring techniques such as image filtering, edge detection, image transformations, object detections,and more.,
-perform image processing tasks using python and OpenCV 
-world of image processing
-What is Image Processing?
-IP-image processing /DIP-digital image processing /MIP-medical image processing
-algorithms extract specific information meaningful image visual analysis OpenCV 
-Why do we need it?
-  
-  
-  
-  
+# install requirements libraries for Image processing
+# python --version
+# python -m pip
+# python -m pip install --upgrade pip
+# py -m pip install library_name
+# install libraries matplotlib,numpy,pandas,opencv-python.,
