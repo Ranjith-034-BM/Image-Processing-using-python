@@ -3,4 +3,4 @@
 # python -m pip
 # python -m pip install --upgrade pip
 # py -m pip install library_name
-# install libraries matplotlib,numpy,pandas,opencv-python,scikit-learn,Pillow.,
+# install libraries matplotlib,scipy,numpy,pandas,opencv-python,scikit-learn,Pillow.,
