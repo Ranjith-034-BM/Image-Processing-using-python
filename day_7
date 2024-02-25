@@ -1,0 +1,8 @@
+# Numpy library using image processing
+# open image - numpy array
+# numpy array - grayscale image
+# Resizing the image
+# Cropped image
+# angle Rotaion image
+# Flip image
+# Blur image
